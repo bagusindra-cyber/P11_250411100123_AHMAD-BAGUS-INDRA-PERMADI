@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 $host = '127.0.0.1';
-$db   = 'siper_perpus';
+$db = 'siper_perpus';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
