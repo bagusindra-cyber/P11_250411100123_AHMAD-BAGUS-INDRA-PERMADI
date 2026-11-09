@@ -1,0 +1,9 @@
+SIPER - MULAI DI SINI
+1. Ekstrak folder SIPER_Perpus ke C:\laragon\www\
+2. Start All di Laragon
+3. Import database/siper_perpus.sql melalui HeidiSQL/phpMyAdmin
+4. Buka http://localhost/SIPER_Perpus/login.php
+5. Login: admin/password, petugas/password, anggota/password
+6. Baca README.md, docs/ANALISIS.md, docs/TESTING.md, docs/BUG_LOG.md dan docs/DEMO_5-7_MENIT.md
+
+PENTING: matriks hasil aktual berstatus BELUM DIUJI sampai Anda menjalankan pengujian sendiri.
